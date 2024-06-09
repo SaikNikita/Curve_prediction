@@ -34,3 +34,4 @@
 #### Кривые на отчётные даты
 ![image](https://github.com/SaikNikita/Curve_prediction/assets/124429089/8287bccb-4ee1-43e7-9fb8-513461cd3693)
 
+Подробнее в https://github.com/SaikNikita/Curve_prediction/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20IR%20%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9.ipynb
